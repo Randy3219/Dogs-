@@ -27,3 +27,6 @@ To load the data into a database or spreadsheet:
 3. Expand the dataset with new columns or rows as needed.
 
 This repository is a starting point for building a comprehensive admissions database for Monroe Community College.
+
+## FAQ
+Frequently asked questions about applying to MCC are answered in [FAQ.md](FAQ.md).
